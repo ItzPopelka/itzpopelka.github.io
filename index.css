@@ -69,6 +69,7 @@ h1, h2, h3 {
     border-bottom: 2px solid var(--green);
     margin-bottom: 20px;
     padding-bottom: 10px;
+    scale: 120%;
 }
 
 .card {
